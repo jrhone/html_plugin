@@ -1,0 +1,5 @@
+# streamlit # need special build with cc beta 4
+
+hiplot
+folium
+nglview
