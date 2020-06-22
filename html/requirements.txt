@@ -3,3 +3,5 @@
 hiplot
 folium
 nglview
+networkx
+pandas
